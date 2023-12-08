@@ -15,7 +15,6 @@
     "@material-ui/icons": "^4.11.3",
     "bcrypt": "^5.1.0",
     "crypto": "^1.0.1",
-    "dotenv": "^16.3.1",
     "global": "^4.4.0",
     "mongodb": "^6.3.0",
     "query-string": "6.11.1",
