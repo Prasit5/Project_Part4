@@ -20,6 +20,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "concurrently": "^8.2.2",
     "vite": "^2.7.0",
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.2",
